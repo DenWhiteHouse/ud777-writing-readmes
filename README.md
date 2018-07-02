@@ -1,4 +1,4 @@
-# Writing READMEs README
+# Writing READMEs (Udacity's lesson on improving README file's readability)
 
 Udacity's course _Writing READMEs_ explains the importance of documenting your work. Here, you can find some supplemental resources for writing good READMEs.
 
